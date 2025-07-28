@@ -1,3 +1,3 @@
 import webbrowser
-url=input("enter the url you want to open")
+url=input("choose your favourite song to be played")
 webbrowser.open(url)
